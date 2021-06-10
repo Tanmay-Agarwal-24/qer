@@ -4,10 +4,10 @@ var foodS,foodStock;
 var gameState,readState;
 var b1,b2,b3,b4,b5
 function preload(){
-   dogImg=loadImage("images/dog.png");
+   dogImg=loadImage("images/Dog.png");
    dogImg1=loadImage("images/Happy.png");
 b1img=loadImage("images/Bed Room.png");
-b2img=loadImage("images/living Room.png");
+b2img=loadImage("images/Living Room.png");
 b3img=loadImage("images/Wash Room.png");
 b7img=loadImage("images/Garden.png");
 b6img=loadImage("images/dogVaccination.png");
